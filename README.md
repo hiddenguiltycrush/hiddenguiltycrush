@@ -1,2 +1,1 @@
-![](https://files.catbox.moe/4x81od.png)
-![](https://komarev.com/ghpvc/?username=exoean&color=lightgrey&style=for-the-badge&label=👋)
+![](https://komarev.com/ghpvc/?username=exoean&color=000000&style=for-the-badge&label= )
